@@ -2,6 +2,8 @@
 
 A lightweight, customizable floating window component for React applications. Create draggable, resizable floating boxes with a native window-like experience.
 
+![FloatBox Demo](example/public/floatbox.png)
+
 ## ✨ Features
 
 - 🖱️ **Draggable**: Click and drag the title bar to move the window
