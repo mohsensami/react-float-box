@@ -1,1 +1,1 @@
-# react-float-box
+# React Float Box

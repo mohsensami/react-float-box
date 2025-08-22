@@ -1,0 +1,31 @@
+{
+  "name": "@mohsensami/float-box",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "@rollup/plugin-typescript": "^11.0.0",
+    "@types/jalaali-js": "^1.2.0",
+    "@types/react": "^19.1.8",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "rollup": "^3.0.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "tslib": "^2.8.1",
+    "typescript": "^5.0.0"
+  }
+}
